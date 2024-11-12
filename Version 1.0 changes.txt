@@ -1,0 +1,5 @@
+Version 2.0 Changes - 12 June,2024
+
+- Booking list not showing resolved
+- Register user issues resolved
+- Integration Stripe New SDK
